@@ -2,6 +2,3 @@
 
 <p align="center"> <a[rentry]() - [atabook] 
 <p align="center"> <a href="https://rentry.co/hanscapon">rentry</a>⠀⠀⠀⠀<a href="https://remmick.atabook.org">新book</>
-
-
--->
